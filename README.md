@@ -1,5 +1,3 @@
-# P2P-Lending-Predictive-Modelling
-
 # 📊 P2P Lending Predictive Modelling
 
 ## Project Overview
