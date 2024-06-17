@@ -8,7 +8,7 @@ Welcome to the **P2P Lending Predictive Modelling** project! This initiative foc
 - **Develop Predictive Models**: Construct models that outperform traditional credit scoring methods in accuracy and adaptability.
 - **Integrate Economic Indicators** __(Ongoing, not fully released)__ : Evaluate how economic indicators can be integrated to offer a more dynamic and holistic assessment of credit risk.
 
-## Directory Structure
+## Directory Structure 
 ```plaintext
 P2P-Lending-Predictive-Modelling/
 ├── data/
@@ -30,6 +30,4 @@ P2P-Lending-Predictive-Modelling/
 │   ├── figures/
 │   └── summary_report.md
 ├── requirements.txt
-├── README.md
-├── LICENSE
-└── .gitignore
+└── README.md
